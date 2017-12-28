@@ -20,5 +20,6 @@ Note if you are using windows only use deactivate
 
 
 [MarkDown Cheatsheets](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[Ipython Cheatsheet for Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 [ Conda envirnoment Management detailed documentation ](https://conda.io/docs/user-guide/tasks/manage-environments.html)
