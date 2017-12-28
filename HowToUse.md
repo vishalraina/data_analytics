@@ -1,6 +1,6 @@
-#TODO Conda install steps
+# TODO Conda install steps
 
-#To install clone this repo and run following command
+# To install clone this repo and run following command
 conda env create -f environment.yaml
 
 #
