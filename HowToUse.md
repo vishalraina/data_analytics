@@ -1,4 +1,4 @@
-Anaconda is available for Windows, Mac OS X, and Linux. You can find the installers and installation instructions at https://www.continuum.io/downloads
+[Anaconda is available for Windows, Mac OS X, and Linux. You can find the installers and installation instructions ](https://www.continuum.io/downloads)
 
 To install clone this repo and run following command
 
@@ -19,7 +19,6 @@ Note if you are using windows only use deactivate
 
 
 
-MarkDown Cheatsheets
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+[MarkDown Cheatsheets](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 [ Conda envirnoment Management detailed documentation ](https://conda.io/docs/user-guide/tasks/manage-environments.html)
